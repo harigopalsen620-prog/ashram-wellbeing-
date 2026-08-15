@@ -1,0 +1,7 @@
+{
+  "name": "Ashram Student Management & Digital Wellbeing",
+  "description": "Consent-based Ashram digital wellbeing and student device management platform with strict privacy boundaries, explicit consent enforcement, and real-time dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
